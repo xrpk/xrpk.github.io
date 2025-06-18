@@ -76,7 +76,7 @@ params:
               url: https://en.wikipedia.org/wiki/Krell_Industries
 
     socialIcons:
-        - name: Resume
+        - name: CV
           url: RyanKrell.pdf
         - name: Email
           url: ryan.krell@icloud.com
