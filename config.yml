@@ -76,7 +76,7 @@ params:
               url: https://en.wikipedia.org/wiki/Krell_Industries
 
     socialIcons:
-        - name: Resume
+        - name: CV
           url: RyanKrell.pdf
         - name: Email
           url: ryan.krell@icloud.com
@@ -90,6 +90,8 @@ params:
           url: https://scholar.google.com/
         - name: GitHub
           url: https://github.com/xrpk
+        - name: Substack
+          url: https://substack.com
         - name: YouTube
           url: https://www.youtube.com/
         - name: Twitter
