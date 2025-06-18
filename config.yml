@@ -56,7 +56,7 @@ params:
           enabled: true
           title: Ryan Krell
           subtitle: "I am a student at Southern Illinois University Edwardsville. I am majoring in computer science and minoring in business. I am currently an IT Infrastructure intern with Energizer Holdings."
-          imageUrl: "picture.jpeg"
+          imageUrl: "pfp.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
