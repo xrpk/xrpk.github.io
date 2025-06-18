@@ -25,12 +25,12 @@ menu:
           url: data/
           weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+          url: https://en.wikipedia.org/wiki/Krell_Industries
           weight: 6
 
 params:
-    description: "This website hosts Moritz-Maria von Igelfeld's research papers, books, course materials, data, curriculum vitae, and contact information."
-    author: Moritz-Maria von Igelfeld
+    description: "This website hosts Ryan Krell's research and contact information."
+    author: Ryan Krell
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -73,7 +73,7 @@ params:
             - name: Archive
               url: archive/
             - name: Blog
-              url: https://en.wikipedia.org/wiki/Moritz-Maria_von_Igelfeld_(character)
+              url: https://en.wikipedia.org/wiki/Krell_Industries
 
     socialIcons:
         - name: CV
@@ -81,7 +81,7 @@ params:
         - name: Email
           url: ryan.krell@icloud.com
         - name: Zoom
-          url: https://www.zoom.us/my/igelfeld
+          url: https://www.zoom.us/my/ryank
         - name: Location
           url: location/
         - name: Office Hours
