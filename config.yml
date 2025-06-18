@@ -77,7 +77,7 @@ params:
 
     socialIcons:
         - name: CV
-          url: cv.pdf
+          url: RyanKrell.pdf
         - name: Email
           url: ryan.krell@icloud.com
         - name: Zoom
@@ -87,11 +87,11 @@ params:
         - name: Office Hours
           url: officehours/
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=cL23w-4AAAAJ
+          url: https://scholar.google.com/
         - name: GitHub
           url: https://github.com/xrpk
         - name: Substack
-          url: https://pmichaillat.substack.com
+          url: https://substack.com
         - name: YouTube
           url: https://www.youtube.com/
         - name: Twitter
