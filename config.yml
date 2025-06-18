@@ -96,6 +96,8 @@ params:
           url: https://www.youtube.com/
         - name: Twitter
           url: https://x.com/
+        - name: Bluesky
+          url: https://bsky.app/
 
     assets:
         disableScrollBarStyle: true
