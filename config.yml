@@ -59,13 +59,14 @@ params:
               I'm passionate about technology, health, and volleyball.
             </div>
 
-            <hr style="width: 50%; margin: 1.2em auto;">
+            <hr style="width: 80%; margin: 1.2em auto;">
 
             <div style="text-align: center; font-weight: bold;">🔧 Tech Stack</div>
             <div style="text-align: center; margin-top: 0.5em;">
               🐍 Python &nbsp; 🐧 Linux &nbsp; 🧰 Bash &nbsp; 🐳 Docker &nbsp; 💻 Git/GitHub &nbsp; 📦 APIs <br>
               🌐 HTML/CSS &nbsp; ⚙️ JavaScript &nbsp; 📊 Pandas · NumPy &nbsp; ✍️ Markdown &nbsp; 🖥️ VS Code
             </div>
+            <hr style="width: 80%; margin: 1.2em auto;">
 
 
           imageUrl: "pfp.jpg"
