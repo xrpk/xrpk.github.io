@@ -17,7 +17,6 @@ This AI-powered job searching tool streamlines the job hunt by collecting listin
 - Ranks jobs by **cosine similarity** to your resume
 - Demonstrates practical use of:
   - Web scraping
-  - NLP with text embeddings
   - Vector similarity search
   - Python scripting and automation
 
@@ -26,7 +25,7 @@ This AI-powered job searching tool streamlines the job hunt by collecting listin
 - Python
 - OpenAI / Sentence Transformers
 - Requests, BeautifulSoup
-- FAISS / NumPy
+- NumPy
 
 ---
 
