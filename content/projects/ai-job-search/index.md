@@ -20,7 +20,7 @@ This AI-powered job searching tool streamlines the job hunt by collecting listin
   - Vector similarity search
   - Python scripting and automation
 
-### Technologies
+### > Technologies
 
 - Python
 - OpenAI / Sentence Transformers

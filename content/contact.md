@@ -12,7 +12,7 @@ You can reach me through any of the following:
 - 🕒 **Office Hours**: [Click Here](/officehours/)
 - 📹 **Zoom**: [zoom.us/my/ryank](https://www.zoom.us/my/ryank)
 
-For academic or professional inquiries, email is preferred.
+For professional inquiries please email.
 
 ---
 
