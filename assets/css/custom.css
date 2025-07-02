@@ -1,7 +1,14 @@
 .center-profile-buttons .buttons {
+  display: flex;
   justify-content: center !important;
+  flex-wrap: wrap;
+  gap: 0.75rem;
 }
 
 .center-social-icons .social-icons {
+  display: flex;
   justify-content: center !important;
+  flex-wrap: wrap;
+  gap: 0.75rem;
 }
+
