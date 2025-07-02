@@ -12,24 +12,24 @@ taxonomies:
 
 menu:
     main:
-        - name: Books
-          url: books/
-          weight: 5 
-        - name: Papers
-          url: papers/
+        - name: Projects
+          url: projects/
           weight: 2
-        - name: Courses
-          url: courses/
+        - name: Experience
+          url: experience/
           weight: 3
-        - name: Data
-          url: data/
+        - name: Skills
+          url: skills/
           weight: 4 
         - name: Blog
-          url: https://en.wikipedia.org/wiki/Krell_Industries
+          url: blog/
+          weight: 5
+        - name: Contact
+          url: contact/
           weight: 6
 
 params:
-    description: "This website hosts Ryan Krell's research and contact information."
+    description: "Ryan Krell - Software Engineer & Computer Science Student. IT Infrastructure experience at Energizer Holdings."
     author: Ryan Krell
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
@@ -44,60 +44,46 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["books","courses","papers","data"]
-    ShowToc: false
+    MainSections: ["projects","experience","blog","skills"]
+    ShowToc: true
     disableScrollToTop: true
     TocOpen: true
     ShowWordCount: false
     UseHugoToc: true
     comments: false
-    math: true
+    math: false
     profileMode:
           enabled: true
           title: Ryan Krell
-          subtitle: "I am a student at Southern Illinois University Edwardsville, currently majoring in computer science and minoring in business. I work as an IT Infrastructure intern with Energizer Holdings."
+          subtitle: "Software Engineer & Computer Science Student at Southern Illinois University Edwardsville. Currently working as an IT Infrastructure Intern at Energizer Holdings, passionate about building scalable solutions and modern web technologies."
           imageUrl: "pfp.jpg"
           imageWidth: 160
           imageHeight: 160
           buttons:
-            - name: Papers
-              url: papers/
-            - name: Data
-              url: data/
-            - name: Books
-              url: books/
-            - name: Courses
-              url: courses/
-            - name: Tags
-              url: tags/
-            - name: Archive
-              url: archive/
-            - name: Blog
-              url: https://en.wikipedia.org/wiki/Krell_Industries
+            - name: Projects
+              url: projects/
+            - name: Experience
+              url: experience/
+            - name: Skills
+              url: skills/
+            - name: GitHub
+              url: https://github.com/xrpk
+            - name: Resume/CV
+              url: RyanKrell.pdf
+            - name: Contact
+              url: contact/
 
     socialIcons:
-        - name: CV
-          url: RyanKrell.pdf
-        - name: Email
-          url: ryan.krell@icloud.com
-        - name: Zoom
-          url: https://www.zoom.us/my/ryank
-        - name: Location
-          url: location/
-        - name: Office Hours
-          url: officehours/
-        - name: Google Scholar
-          url: https://scholar.google.com/
         - name: GitHub
           url: https://github.com/xrpk
-        - name: Substack
-          url: https://substack.com
-        - name: YouTube
-          url: https://www.youtube.com/
-        - name: Twitter
-          url: https://x.com/
-        - name: Bluesky
-          url: https://bsky.app/
+        - name: LinkedIn
+          url: https://linkedin.com/in/ryankrell
+        - name: Email
+          url: mailto:ryan.krell@icloud.com
+        - name: Resume
+          url: RyanKrell.pdf
+        - name: Location
+          url: location/
 
     assets:
         disableScrollBarStyle: true
@@ -115,8 +101,8 @@ markup:
             unsafe: true
     highlight:
         guessSyntax: true
-        style: autumn 
+        style: github-dark
     tableOfContents:
-        endLevel: 2
+        endLevel: 3
         ordered: false
         startLevel: 2
