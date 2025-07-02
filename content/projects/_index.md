@@ -8,13 +8,11 @@ Here are some of the projects I've worked on:
 
 ---
 
-### 🔧 **System Monitor CLI Tool**
-A custom cross-platform command-line tool written in Python that displays live system usage (CPU, memory, disk) with a focus on extensibility and clean CLI interfaces.
-
-- Technologies: Python, psutil, argparse
-- Status: Complete
+### [AI Job Search Tool](/projects/ai-job-search/)
+A job search system that scrapes and ranks job listings based on how closely they match your resume using LLMs and vector similarity.
 
 ---
+
 
 ### **Personal Portfolio Website**
 A static site built with Hugo + PaperMod theme. Hosts my resume, project portfolio, and contact information.
