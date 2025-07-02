@@ -53,17 +53,20 @@ params:
           enabled: true
           title: Ryan Krell
           subtitle: |
-            💡 I'm a Computer Science student at SIUE, minoring in Business. I currently work as an IT Infrastructure Intern at Energizer Holdings.
+           <div style="text-align: left;">
+              💡 I'm a Computer Science student at SIUE, minoring in Business. I currently work as an IT Infrastructure Intern at Energizer Holdings.
+              <br><br>
+              I'm passionate about technology, health, and volleyball.
+            </div>
 
-                I'm passionate about technology, health, and volleyball.
+            <hr style="width: 50%; margin: 1.2em auto;">
 
-                <hr style="width: 50%; margin: 1.2em auto;">
+            <div style="text-align: center; font-weight: bold;">🔧 Tech Stack</div>
+            <div style="text-align: center; margin-top: 0.5em;">
+              🐍 Python &nbsp; 🐧 Linux &nbsp; 🧰 Bash &nbsp; 🐳 Docker &nbsp; 💻 Git/GitHub &nbsp; 📦 APIs <br>
+              🌐 HTML/CSS &nbsp; ⚙️ JavaScript &nbsp; 📊 Pandas · NumPy &nbsp; ✍️ Markdown &nbsp; 🖥️ VS Code
+            </div>
 
-                **🔧 Tech Stack**  
-                <div style="text-align: center;">
-                  🐍 Python &nbsp; 🐧 Linux &nbsp; 🧰 Bash &nbsp; 🐳 Docker &nbsp; 💻 Git/GitHub &nbsp; 📦 APIs <br>
-                  🌐 HTML/CSS &nbsp; ⚙️ JavaScript &nbsp; 📊 Pandas · NumPy &nbsp; ✍️ Markdown &nbsp; 🖥️ VS Code
-                </div>
 
           imageUrl: "pfp.jpg"
           imageWidth: 160
