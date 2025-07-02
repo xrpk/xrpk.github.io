@@ -55,7 +55,7 @@ params:
           subtitle: >
            <p style="text-align: center;">
               💡 I'm a Computer Science student at SIUE, minoring in Business. I currently work as an IT Infrastructure Intern at Energizer Holdings.<br><br>
-              I'm passionate about building efficient systems, exploring AI-powered solutions, and bridging the gap between technology and business strategy.
+              I'm passionate about technology, health and volleyball.
             </p>
 
             <p style="text-align: center; font-weight: bold;">🔧 Tech Stack</p>
@@ -76,7 +76,7 @@ params:
               url: RyanKrell.pdf
             - name: Contact
               url: contact/
-
+    classes: "center-profile-buttons center-social-icons"
     socialIcons:
         - name: CV
           url: RyanKrell.pdf
@@ -95,6 +95,7 @@ params:
 
     assets:
         disableScrollBarStyle: true
+        customCSS: ["css/custom.css"]
     cover:
         hiddenInList: false
         hiddenInSingle: true
