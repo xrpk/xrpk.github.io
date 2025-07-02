@@ -53,7 +53,7 @@ params:
           enabled: true
           title: Ryan Krell
           subtitle: >
-           <p style="text-align: center;">
+           <p>
               💡 I'm a Computer Science student at SIUE, minoring in Business. I currently work as an IT Infrastructure Intern at Energizer Holdings.<br><br>
               I'm passionate about technology, health and volleyball.
             </p>
